@@ -1,0 +1,28 @@
+.container {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.term{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.term span{
+  text-align: center;
+  padding: 20px 10%;
+  transition: all 0.3s ease-in;
+}
+.term span:hover{
+  background-color: blueviolet;
+}
+.searchButton{
+  background-color: blueviolet;
+  color: white;
+  font-size: 1.2rem;
+  padding: 10px 0;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}

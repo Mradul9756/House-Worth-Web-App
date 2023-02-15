@@ -1,0 +1,16 @@
+.row {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.searchOption {
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 20px 10px;
+  transition: all 0.3s ease-in;
+  gap: 20px;
+}

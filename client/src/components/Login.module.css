@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  font-size: large;
+  font-weight: 600;
+  color: black;
+  width: 300px;
+  border: 2px solid violet;
+  padding: 40px 20px;
+  align-self: center;
+}
+.inputDiv {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.inputDiv input {
+  height: 30px;
+}
+.container button {
+  cursor: pointer;
+  padding: 10px;
+  background-color: blueviolet;
+  color: white;
+  font-size: larger;
+}
+
+.redirect {
+  cursor: pointer;
+  color: blueviolet;
+  text-decoration: underline;
+}
