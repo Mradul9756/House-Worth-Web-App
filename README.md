@@ -16,3 +16,6 @@ Followed the rule of 1NF for eliminating repeating groups, 2NF for eliminating r
 ## UML
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/63217569/218968583-7276565c-8ff4-4673-a02c-a133583c5320.png">
 
+## Application Snapshots
+<img width="877" alt="Screen Shot 2023-02-15 at 12 08 05 AM" src="https://user-images.githubusercontent.com/63217569/218969375-c337ba3e-b7a1-475e-abb7-8bf85fe4c98d.png">
+<img width="618" alt="Screen Shot 2023-02-15 at 12 08 25 AM" src="https://user-images.githubusercontent.com/63217569/218969382-dd478888-0c81-490b-88e7-f1f7036fe4ca.png">
